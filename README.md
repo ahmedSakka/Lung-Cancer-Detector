@@ -115,7 +115,7 @@ Contributions are welcome! If you have suggestions for improving the system, enh
 ### **References**
 
 1. **IQ-OTH/NCCD Lung Cancer Dataset**  
-   [Dataset Link](https://www.kaggle.com/datasets/anaselhoud/lung-cancer-dataset)
+   [Dataset Link](https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset)
 
 2. **TensorFlow Documentation**  
    [TensorFlow](https://www.tensorflow.org/)
